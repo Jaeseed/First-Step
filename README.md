@@ -27,3 +27,6 @@
 ##### ERD:  https://www.erdcloud.com/d/oKWcmEbA7vBYr2wpe
 
 ##### API: https://www.notion.so/e6b7a5b3099a4c5b83e767fe7823bf2c?v=e852485e08aa408a8e510e1df1509f42
+
+##### Branch, Commit 전략: https://www.notion.so/Github-Flow-1057f6eb26834b699a613b225704a930
+
